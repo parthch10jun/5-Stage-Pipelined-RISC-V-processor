@@ -10,3 +10,5 @@ BEQ (B-type)
 The single cycle risc-V processor supports the following functions for now:
 LW, SW, BEQ 
 The following R-type instructions: ADD, SUB, AND and OR
+<img width="346" alt="image" src="https://user-images.githubusercontent.com/59345612/176921245-0dfb2d33-44d0-493f-9e9f-0e457b452947.png">
+
